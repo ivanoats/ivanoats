@@ -1,3 +1,5 @@
+![Ivan paddling](http://media.ivanstorck.com.s3-website-us-east-1.amazonaws.com/elks-race-side-view.jpg)
+
 ### Aloha 🤙 Klahowya Tillicum 💙🌲💚
 
 - 🔭 I’m currently working on high performance, agile ReactJS and NextJS at lululemon
