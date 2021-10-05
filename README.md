@@ -2,7 +2,7 @@
 
 ### Aloha 🤙 Klahowya Tillicum 💙🌲💚
 
-🔭  I’m currently working on high performance, agile, CSS Grid, ReactJS and NextJS ecommerce systems at [lululemon](https://shop.lululemon.com)
+🔭  I’m currently working on high performance, micro frontend architecture, CSS Grid, ReactJS and NextJS ecommerce systems at [lululemon](https://shop.lululemon.com)
 
 🌱  I’m currently learning more web mapping and Web GIS stuff
 
