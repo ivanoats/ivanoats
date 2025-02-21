@@ -2,15 +2,14 @@
 
 ### Aloha 🤙 Klahowya Tillicum 💙🌲💚
 
-🔭  I’m currently working on high performance, micro frontend architecture, CSS Grid, ReactJS and NextJS ecommerce systems at [lululemon](https://shop.lululemon.com)
+🚀 Senior Software Engineer | Entrepreneur | GIS & AI Enthusiast | Educator
 
-🌱  I’m currently learning more web mapping and Web GIS stuff
+With over 25 years of experience in software engineering, web development, and digital entrepreneurship, I specialize in building scalable, high-performance applications with JavaScript, React, Node.js, GIS, and AI. My work spans observability, operational effectiveness, and capability maturity modeling, ensuring that teams and systems evolve for long-term success.
 
-👯  I’m looking to collaborate on nonprofit projects that help outdoor recreation and the environment with mapping
+Beyond tech, I’m passionate about data visualization, mapping, and automation, leveraging GIS tools to bring insights to the web. I’ve co-founded startups, mentored developers, and taught programming at Code Fellows and the University of Washington.
 
-💬 Ask me about the time I started a voctational school for web programmers [Code Fellows](https://www.codefellows.com) or how I started my previous business, Sustainable Websites while living in a van before #vanlife was a thing
+An avid sailor, drone photographer, and SUP racer, I love exploring the Salish Sea while integrating marine navigation, AI, and adventure videography into my projects. Currently, I’m diving deeper into AI, real estate investing, and building micro-SaaS businesses.
 
-📫 How to reach me: <a href="mailto:ivanoats@gmail.com">email</a>, [Twitter](https://www.twitter.com/ivanoats), [LinkedIn](https://linkedin.com/in/ivanoats)
+💡 Let’s connect on tech, operational effectiveness, entrepreneurship, GIS, AI, or outdoor adventure!
 
-😄 Pronouns: He / Him
-
+📫 How to reach me: <a href="mailto:ivanoats@gmail.com">email</a>, [BlueSky](https://bsky.app/profile/ivanstorck.com), [LinkedIn](https://linkedin.com/in/ivanoats)
